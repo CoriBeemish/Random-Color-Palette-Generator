@@ -31,6 +31,12 @@ h1 {
     padding: 20px 0;
 }
 
+span {
+    font-size: 25px;
+    font-family: "Montserrat";
+    text-transform: none;
+}
+
 #colorDisplay {
     font-size: 2%;
     visibility: hidden;
@@ -73,6 +79,14 @@ button {
         background-color: lightcoral;
     }
 
+#reset {
+    margin-right: 250px;
+}
+
+#github{
+    padding: 6px;
+    float: left;
+}
 
 p {
     font:caption;
